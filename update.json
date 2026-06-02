@@ -1,14 +1,15 @@
 {
   "version": "1.0.1",
   "notes": "Улучшения интерфейса и стабильности.",
-  "downloadUrl": "https://github.com/sldrug/ultimate-shrinker-releases/releases/download/v1.0.1/UltimateShrinker-1.0.1.zip",
+  "downloadUrl": "https://github.com/sldrug/Shrinker/releases/download/v1.0.1/UltimateShrinker-1.0.1.zip",
   "package_name": "UltimateShrinker-1.0.1.zip",
-  "sha256": "A6EB0698E1343A2427BEF7DDE5DD319EE13109C8D18B552EEE230DCE0366388E",
+  "sha256": "6B822217774B8664E4E74CCA55A6B14537D8436B04AA1565626F745D219504A0",
   "min_supported_version": "1.0.0",
   "isKillSwitchActive": false,
   "killSwitchMessage": "Приложение временно отключено разработчиком.",
   "allowedUsers": [
     "m.belov",
-    "v.davidenko"
+    "v.davidenko",
+    "r.gulyaev"
   ]
 }
